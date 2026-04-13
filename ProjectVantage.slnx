@@ -5,4 +5,6 @@
     <File Path="global.json" />
   </Folder>
   <Project Path="Vantage.Shared/Vantage.Shared.csproj" />
+  <Project Path="Vantage.ServiceDefaults/Vantage.ServiceDefaults.csproj" />
+  <Project Path="Vantage.AppHost/Vantage.AppHost.csproj" />
 </Solution>
