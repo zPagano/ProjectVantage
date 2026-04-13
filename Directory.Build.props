@@ -8,6 +8,6 @@
     <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
     <AnalysisLevel>latest-all</AnalysisLevel>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
-    <NoWarn>$(NoWarn);1591</NoWarn>
+	<NoWarn>$(NoWarn);1591;CA1032;CA1716</NoWarn>
   </PropertyGroup>
 </Project>
