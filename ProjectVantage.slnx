@@ -4,7 +4,13 @@
     <File Path="Directory.Packages.props" />
     <File Path="global.json" />
   </Folder>
-  <Project Path="Vantage.Shared/Vantage.Shared.csproj" />
-  <Project Path="Vantage.ServiceDefaults/Vantage.ServiceDefaults.csproj" />
-  <Project Path="Vantage.AppHost/Vantage.AppHost.csproj" />
+  <Folder Name="/core/">
+    <Project Path="core/Vantage.Shared/Vantage.Shared.csproj" />
+  </Folder>
+  <Folder Name="/infra/">
+    <Project Path="infra/Vantage.AppHost/Vantage.AppHost.csproj" />
+    <Project Path="infra/Vantage.ServiceDefaults/Vantage.ServiceDefaults.csproj" />
+  </Folder>
+  <Folder Name="/services/" />
+  <Folder Name="/gateways/" />
 </Solution>
