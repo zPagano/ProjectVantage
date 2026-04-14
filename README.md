@@ -33,9 +33,9 @@ graph TD
     style Infra fill:#00b894,stroke:#55efc4,color:#fff
 ````
 
-  - **[`/core/Vantage.Shared`](https://www.google.com/search?q=./core/Vantage.Shared/README.md)** - Foundational primitives and cross-cutting domain logic.
-  - **[`/infra/Vantage.AppHost`](https://www.google.com/search?q=./infra/Vantage.AppHost/README.md)** - Control plane, Docker orchestration, and service defaults.
-  - **[`/infra/Vantage.ServiceDefaults`](https://www.google.com/search?q=./infra/Vantage.ServiceDefaults/README.md)** - Observability and resilience baseline.
+  - **[`/core/Vantage.Shared`](/core/Vantage.Shared/README.md)** - Foundational primitives and cross-cutting domain logic.
+  - **[`/infra/Vantage.AppHost`](/infra/Vantage.AppHost/README.md)** - Control plane, Docker orchestration, and service defaults.
+  - **[`/infra/Vantage.ServiceDefaults`](/infra/Vantage.ServiceDefaults/README.md)** - Observability and resilience baseline.
   - **`/services/`** - Bounded business logic contexts (Matchmaking, Social, etc.).
   - **`/gateways/`** - Ingress controllers and Anti-Corruption Layers (ACL).
 
