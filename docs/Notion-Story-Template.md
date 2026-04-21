@@ -1,9 +1,7 @@
 # [Story Title]
 
-## User Story
-**As a** [role/user type]
-**I want to** [action/feature]
-**So that** [value/benefit]
+## Objective
+[Clear, concise description of the technical goal and the business value it provides.]
 
 ## Architectural Context & Dependencies
 * **Target Service:** (e.g., Vantage.Matchmaking, Vantage.Gateway)
